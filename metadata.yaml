@@ -1,0 +1,12 @@
+- name: Yomogi
+  displayname: よもぎ
+  category: handwriting
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/Yomogi-Regular
+        codes: 8036
+        weight: 400
+        xfl: true
